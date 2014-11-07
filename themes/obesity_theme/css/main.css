@@ -1,0 +1,56 @@
+/*
+Custom CSS styles that override base theme go here.
+*/
+
+.schedule-block .view-grouping-header {
+/*  border-bottom:1px solid #CCC; */
+  text-align:center;
+  color:#A51C30;
+}
+
+.view-grouping-content caption {
+  line-height: 29px;
+  color:#544e49;
+  font-size: 18px;
+  font-weight:bold;
+  padding:10px 0 0;
+  margin-bottom:5px;
+}
+
+#block-quicktabs-schedule h2.block-title,
+.tab-heading,
+.schedule-block h3 {
+  color:#A51C30;
+}
+
+.tab-heading {
+  font-size: 25px;
+  line-height: 28px;
+  margin-bottom: 7px;
+  margin-top: 2px;
+  font-weight:bold;
+}
+
+.tab-heading .sub-header {
+  font-size:14px;
+}
+
+ul.quicktabs-tabs.quicktabs-style-basic {
+  height:24px;
+}
+
+ul.quicktabs-tabs.quicktabs-style-basic li {
+  padding:7px 10px;
+}
+
+ul.quicktabs-tabs.quicktabs-style-basic a {
+  color:#555;
+}
+
+ul.quicktabs-tabs.quicktabs-style-basic a:hover {
+  color:#aaa;
+}
+
+ul.quicktabs-tabs.quicktabs-style-basic li.active a {
+  color:#A51C30;
+}
