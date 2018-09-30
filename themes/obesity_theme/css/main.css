@@ -87,4 +87,9 @@ ul.quicktabs-tabs.quicktabs-style-basic li.active a {
   position: static;
 }
 
+.page-node-1329 #breadcrumb {
+  visibility: hidden;
+  height: 0px;
+}
+
 /* End  Case Presentation Form changes */
